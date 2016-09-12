@@ -7,7 +7,6 @@ is a sample android/iOS app built with [Ratchet](http://goratchet.com). Ratchet 
 Nothing special, just your usual HTML, CSS and Javascript files. Ratchet is very easy to pickup if you are already familiar with some of those.
 * Clone the repo with `git clone https://github.com/daveozoalor/ratchetmini.git` or just [download](https://github.com/daveozoalor/ratchetmini/archive/master.zip) the bundled CSS and JS
 * [Read the docs on Ratchet's website ](http://goratchet.com) to learn about the components and how to get a prototype on your phone
-* 
 
 
 ### What's included
@@ -52,9 +51,9 @@ Please file a GitHub issue to [report a bug](https://github.com/daveozoalor/ratc
 Follow me on my social media handles
 * Subscribe on [Youtube](http://youtube.com/c/braintemorg)
 * Follow on [Twitter](http://twitter.com/braintem)
-* Follow on (Instagram) (http://instagram.com/daveozoalor)
+* Follow on (Instagram)(http://instagram.com/daveozoalor)
 * Like on [Facebook](http://fb.com/braintem)
 
-##How to contact me
+## How to contact me
 Yes I can join your team, or help out in one way or the other: 
-*Just buzz me up on [facebook](http://facebook.com/daveozoalor)
+* Just buzz me up on [facebook](http://facebook.com/daveozoalor)
