@@ -1,6 +1,6 @@
-# RatchetMini is a sample android/iOS app built with [Ratchet](http://goratchet.com)
+# RatchetMini Hybrid Android/iOS app
 
-Build mobile apps with simple HTML, CSS, and JS components.
+is a sample android/iOS app built with [Ratchet](http://goratchet.com). Ratchet helps you build mobile apps with simple HTML, CSS, and JS components.
 
 
 ## Getting started
